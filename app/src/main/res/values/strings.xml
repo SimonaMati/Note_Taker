@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">NoteTakingApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_user">New User</string>
+    <string name="document_title">Document Title:</string>
+    <string name="create_a_new_user_account">Create a new user account</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="create">Create</string>
+    <string name="please_type_your_username">Please type your username</string>
+    <string name="temporary_password">Temporary password:</string>
+    <string name="new_password">New Password:</string>
+    <string name="set_password">Set password</string>
+    <string name="we_have_sent_you_a_temporary_password_to_your_email_box">We have sent you a temporary password to your email box.</string>
+    <string name="enter_your_temporary_password_here">Enter your temporary password here</string>
+    <string name="finish_registration">Finish Registration</string>
+    <string name="who_do_you_want_to_share_this_document_with">Who do you want to share this document with?</string>
+    <string name="type_an_id_of_a_document">Type an ID of a document</string>
+    <string name="share">Share</string>
+    <string name="type_friend_s_email_address">Type friend\'s email address</string>
+    <string name="load_shared_documents">Load Shared Documents</string>
+    <string name="submit">Submit</string>
+    <string name="save_file" />
+    <string name="settings">Settings</string>
+    <string name="sign_out_option">Sign out option</string>
+    <string name="sign_out">Sign out</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="save_changes">Save changes</string>
+    <string name="edit_account_information">Edit Account Information</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string name="search">Search</string>
+    <string name="type_document_id">Type Document ID</string>
+    <string name="lock_this_file_for_receiver">Lock this file for receiver?</string>
+    <string-array name="document_options_array">
+        <item>My Documents</item>
+        <item>Shared with me</item>
+        <item>All Documents</item>
+    </string-array>
+
+</resources>
